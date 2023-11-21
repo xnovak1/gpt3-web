@@ -21,7 +21,7 @@ const Blog = () => {
           />
         </div>
 
-        <div className="gpt3__blog-container_groupA">
+        <div className="gpt3__blog-container_groupB">
           <Article
             imgUrl={blog02}
             date="Sep 26, 2021"
